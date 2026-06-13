@@ -4,6 +4,8 @@
 
 MBTI is one of the most widely used personality frameworks. This list aims to be the most useful single starting point for anyone exploring MBTI seriously — whether you're new to it, applying it in your work, studying its scientific basis, or critically evaluating it. Resources are listed alphabetically within each section. Inclusion does not imply endorsement.
 
+Quick start: [Take a free MBTI-style test](https://mbtiusa.com/test?utm_source=github&utm_medium=owned_repo&utm_campaign=recovery_20260613&utm_content=awesome_mbti_readme__to__mbti_test) before exploring the resources below.
+
 ## Contents
 
 - [Academic Foundations](#academic-foundations)
