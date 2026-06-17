@@ -43,7 +43,7 @@ MBTI-style assessments that produce a four-letter type at no cost.
 - [16Personalities](https://www.16personalities.com/) — Most popular free MBTI-style test. Adds the -A/-T (Assertive/Turbulent) suffix.
 - [HumanMetrics Jung Typology Test](http://www.humanmetrics.com/cgi-win/jtypes2.asp) — Long-running free MBTI-style assessment.
 - [IDRlabs Myers-Briggs Test](https://www.idrlabs.com/test.php) — Free test with academic framing and detailed score breakdown.
-- [MBTI USA](https://mbtiusa.com/) — Free MBTI-style test focused on US cultural context, type-pair compatibility, and career fit.
+- [MBTI USA](https://mbtiusa.com/test?utm_source=github&utm_medium=owned_repo&utm_campaign=backlink_foundation_20260617&utm_content=awesome_mbti_free_tests__to__mbti_test) — Free MBTI-style test focused on US cultural context, type-pair compatibility, and career fit.
 - [Personality Hacker Genius Style Test](https://personalityhacker.com/genius/) — Free test that emphasizes cognitive functions over four-letter labels.
 - [Sakinorva Cognitive Functions Test](https://sakinorva.net/functions) — Free test focused on cognitive function stack identification.
 - [Truity TypeFinder](https://www.truity.com/test/type-finder-personality-test-new) — Free four-letter type test plus paid expanded reports.
@@ -80,14 +80,15 @@ Sites that publish detailed profiles for each of the 16 types.
 Resources covering MBTI in relationships, compatibility, and communication.
 
 - [16Personalities Romantic Relationships](https://www.16personalities.com/articles/category/romantic-relationships) — Collection of articles on type-based relationship dynamics.
-- [MBTI USA Pair Pages](https://mbtiusa.com/compare) — 120+ pages covering MBTI type-pair compatibility, communication, and conflict patterns.
+- [MBTI USA Pair Pages](https://mbtiusa.com/compare?utm_source=github&utm_medium=owned_repo&utm_campaign=backlink_foundation_20260617&utm_content=awesome_mbti_relationships__to__compare) — 120+ pages covering MBTI type-pair compatibility, communication, and conflict patterns.
+- [MBTI USA Relationship Pattern Test](https://mbtiusa.com/attachment-style-test?utm_source=github&utm_medium=owned_repo&utm_campaign=backlink_foundation_20260617&utm_content=awesome_mbti_relationships__to__attachment_style_test) — Relationship self-assessment covering attachment patterns, communication, and conflict behavior.
 - [Personality Junkie — Relationships](https://personalityjunkie.com/category/personality-types-relationships/) — In-depth articles on type compatibility nuances.
 
 ## Career & MBTI
 
 Resources on applying MBTI to career planning, job fit, and workplace dynamics.
 
-- [MBTI USA Career Guides](https://mbtiusa.com/blog) — Type-by-type career guides covering strengths, ideal roles, and risks.
+- [MBTI USA Career Guides](https://mbtiusa.com/blog?utm_source=github&utm_medium=owned_repo&utm_campaign=backlink_foundation_20260617&utm_content=awesome_mbti_career__to__blog) — Type-by-type career guides covering strengths, ideal roles, and risks.
 - [Myers-Briggs Career Resources](https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs/Career-Use) — Official career guidance and job-fit research.
 - [Truity Career Pages](https://www.truity.com/personality-type/INTJ/careers) — Type-based career guidance backed by O*NET data.
 
