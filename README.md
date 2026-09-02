@@ -125,8 +125,9 @@ Books beyond the academic foundations section.
 
 Practical applications and tools that use MBTI.
 
-- [TypeScript (the iOS app)](https://apps.apple.com/us/app/typescript-mbti-coaching/id1493193301) — MBTI-based daily coaching prompts.
 - [Personality Hacker Profiler](https://personalityhacker.com/membership/) — Subscription with type-specific growth resources.
+- [TypeScript (the iOS app)](https://apps.apple.com/us/app/typescript-mbti-coaching/id1493193301) — MBTI-based daily coaching prompts.
+- [World Flag Map Travel Personality Quiz](https://worldflagmap.com/travel-personality/) — Browser quiz connecting travel scenarios with four-letter personality codes, 16 travel archetypes, and adjustable country suggestions.
 
 ## Datasets & Research
 
