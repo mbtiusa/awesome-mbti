@@ -125,8 +125,9 @@ Books beyond the academic foundations section.
 
 Practical applications and tools that use MBTI.
 
-- [TypeScript (the iOS app)](https://apps.apple.com/us/app/typescript-mbti-coaching/id1493193301) — MBTI-based daily coaching prompts.
 - [Personality Hacker Profiler](https://personalityhacker.com/membership/) — Subscription with type-specific growth resources.
+- [Type Explorer](https://www.typeexplorer.com/) — Community MBTI voting on character profiles, with optional explanations and sources. Public browsing; a free account is required to vote.
+- [TypeScript (the iOS app)](https://apps.apple.com/us/app/typescript-mbti-coaching/id1493193301) — MBTI-based daily coaching prompts.
 
 ## Datasets & Research
 
